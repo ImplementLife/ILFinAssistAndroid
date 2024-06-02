@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FinAssist</string>
+    <string name="blank">blank_for_fill</string>
 </resources>
